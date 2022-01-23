@@ -1,0 +1,29 @@
+body {
+  background-color: bisque;
+}
+.info-panel {
+  width: 500px;
+  background-color: #ebf8ff;
+  padding: 20px;
+  margin:20px;
+}
+.setting-panel {
+  width: 500px;
+  background-color: #fff5ff;
+  padding: 20px;
+  margin:20px;
+}
+.data-group {
+  margin: 10px;
+}
+.label{
+  display: inline-block;
+}
+.value {
+  min-width: 100px;
+  display: inline-block;
+  border: solid 1px black;
+  padding: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
